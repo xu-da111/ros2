@@ -66,6 +66,8 @@ ROS每章节运行代码:
 
 * [低空载具的 ROS 示例教程](https://openhutb.github.io/air_doc/airsim_tutorial_pkgs/)
 
+* [多无人机协同分区覆盖搜索](./air/uav_multi_area_coverage.md)
+
 
 
 ## 4. 水域载具  <span id='water_vehicle'></span>

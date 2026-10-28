@@ -66,6 +66,8 @@ ROS每章节运行代码:
 
 * [低空载具的 ROS 示例教程](https://openhutb.github.io/air_doc/airsim_tutorial_pkgs/)
 
+* [无人机兴趣点环绕航拍](./air/uav_poi_orbit.md)
+
 
 
 ## 4. 水域载具  <span id='water_vehicle'></span>
